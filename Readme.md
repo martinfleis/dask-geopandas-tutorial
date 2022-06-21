@@ -2,11 +2,6 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinfleis/dask-geopandas-tutorial/main?urlpath=lab/)
 
-Data included:
-
-- `airports.csv` from <https://ourairports.com/data/>
-- `world.parquet` as a copy of `naturalearth_lowres` dataset from geopandas
-- `GADM` from GADM but that is not included in the repo due to the size
 
 ## Setting up to follow the tutorial
 
@@ -70,3 +65,11 @@ Start a jupyter notebook server by typing
 ```
 jupyter lab
 ```
+
+---
+
+Data included:
+
+- `airports.csv` from <https://ourairports.com/data/>
+- `world.parquet` as a copy of `naturalearth_lowres` dataset from geopandas
+- `GADM` from GADM but that is not included in the repo due to the size
