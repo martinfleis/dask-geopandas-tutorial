@@ -21,7 +21,7 @@ cd dask-geopandas-tutorial
 
 Otherwise, to download the repository to your local machine as a zip-file,
 click the `download ZIP` on the repository page
-<https://github.com/jorisvandenbossche/martinfleis/dask-geopandas-tutorial>
+<https://github.com/martinfleis/dask-geopandas-tutorial>
 (green button "Code"). After the download, unzip on the location you prefer
 within your user account (e.g. `My Documents`, not `C:\`).
 
@@ -53,7 +53,7 @@ conda activate geopandas-tutorial
 
 In case you do not want to install everything and just want to try out the course material, use the environment setup by Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinfleis/dask-geopandas-tutorial/main?urlpath=lab/) and open the notebooks rightaway.
 
-## Step 3: starting Jupyter Lab
+### Step 3: starting Jupyter Lab
 
 The tutorial itself is a [Jupyter notebook](http://jupyter.org/), an interactive  environment to write and run code.
 
