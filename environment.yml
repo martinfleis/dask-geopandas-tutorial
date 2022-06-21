@@ -1,0 +1,13 @@
+name: geopandas-tutorial
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab>3
+  - geopandas
+  - dask-geopandas
+  - pyogrio
+  - pyarrow
+  - python-graphviz
+  - esda
+  - dask-labextension
