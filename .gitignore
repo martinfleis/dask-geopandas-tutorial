@@ -130,5 +130,4 @@ dmypy.json
 
 dask-worker-space/
 mydask.png
-data/gadm404-gpkg.zip
-data/gadm404.gpkg
+data/gadm*
