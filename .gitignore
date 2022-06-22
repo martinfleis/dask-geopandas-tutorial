@@ -131,3 +131,7 @@ dmypy.json
 dask-worker-space/
 mydask.png
 data/gadm*
+world/
+data/airports/
+data/airports_csv/
+data/world*
